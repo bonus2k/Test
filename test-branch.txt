@@ -1,1 +1,2 @@
 add new branch
+Line from user2
